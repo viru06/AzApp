@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzApp", "AzApp.csproj", "{445B7E08-65B3-4842-8D0A-AD90A79C9CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445B7E08-65B3-4842-8D0A-AD90A79C9CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445B7E08-65B3-4842-8D0A-AD90A79C9CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445B7E08-65B3-4842-8D0A-AD90A79C9CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445B7E08-65B3-4842-8D0A-AD90A79C9CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C652D2-5C21-4732-82C8-1209EC04E56F}
+	EndGlobalSection
+EndGlobal
